@@ -1,6 +1,6 @@
 import json
 import re
-from pyspark.sql import Row
+from pyspark.sql import *
 from pyspark import SparkContext, SQLContext
 
 # context initialization
