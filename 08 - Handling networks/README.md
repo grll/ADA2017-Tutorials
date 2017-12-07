@@ -1,4 +1,4 @@
-# 07 - Handling Text
+# 08 - Handling Networks
 
 The purpose of this lab is to introduce some tricks and tools to handle networks.
 
